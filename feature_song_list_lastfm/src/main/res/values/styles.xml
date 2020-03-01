@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LastFmBody1" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/body1color</item>
+    </style>
+
+    <style name="LastFmCaption" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textColor">@color/body2color</item>
+    </style>
+
+
+</resources>
